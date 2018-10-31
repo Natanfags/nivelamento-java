@@ -9,7 +9,7 @@ public class uri1038 {
 		int codigo = sc.nextInt();
 		int quantidade = sc.nextInt();
 		
-		double total;
+		
 		if (codigo == 1) {
 			total = quantidade * 4.0;
 		}
